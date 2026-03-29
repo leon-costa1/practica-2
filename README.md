@@ -12,4 +12,6 @@
 
 ## Ejecución
 
-Abrir el archivo practica2.ipynb con Jupyter lab o VS Code.
+1. Abrir el archivo practica2.ipynb con Jupyter lab o VS Code.
+2. Ejecutar "Configuracion del PATH".
+3. Ejecutar las celdas de los enunciados deseados.
